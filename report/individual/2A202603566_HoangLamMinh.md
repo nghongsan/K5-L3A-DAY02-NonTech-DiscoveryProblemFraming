@@ -10,7 +10,7 @@
 - MSSV: 2A202603566
 - Email trường (không bắt buộc, repo có thể để public): 
 - Tên nhóm: NonTech
-- Link repo nhóm: 
+- Link repo nhóm: https://github.com/nghongsan/K5-L3A-DAY02-NonTech-DiscoveryProblemFraming
 
 ---
 
